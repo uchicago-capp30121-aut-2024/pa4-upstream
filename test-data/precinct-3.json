@@ -1,0 +1,12 @@
+{
+    "seed": 1438021247,
+    "precinct": {
+        "name": "Unknown",
+        "hours_open": 13,
+        "num_voters": 500,
+        "num_booths": 5,
+        "voting_duration_rate": 0.1,
+        "arrival_rate": 0.7,
+        "large_precinct": true
+    }
+}
